@@ -207,7 +207,7 @@ Key visualizations demonstrate:
 - **LinkedIn**: [Your LinkedIn Profile]
 - **Portfolio**: [Your Portfolio Website]
 - **Email**: [Your Email]
-- **Live Dashboard**: [Link to Tableau Public Dashboard]
+- **Live Dashboard**: [Social Media Mental Health Analysis Dashboard](https://public.tableau.com/app/profile/matthew.sinaga/viz/SocialMediaMentalHealthAnalysisDashboard/SocialMediaMentalHealthAnalysisDashboard)
 - **GitHub Repository**: [Link to GitHub Repo]
 
 ---
