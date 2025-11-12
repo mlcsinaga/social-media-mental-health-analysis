@@ -204,11 +204,11 @@ Key visualizations demonstrate:
 
 ## 📞 Contact & Links
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio Website]
-- **Email**: [Your Email]
-- **Live Dashboard**: [Social Media Mental Health Analysis Dashboard](https://public.tableau.com/app/profile/matthew.sinaga/viz/SocialMediaMentalHealthAnalysisDashboard/SocialMediaMentalHealthAnalysisDashboard)
-- **GitHub Repository**: [Link to GitHub Repo]
+- **LinkedIn**: https://www.linkedin.com/in/matt-sinaga/
+- **Portfolio**: www.mattsinaga.com
+- **Email**: mlcsinaga@gmail.com
+- **Live Dashboard**: (https://public.tableau.com/app/profile/matthew.sinaga/viz/SocialMediaMentalHealthAnalysisDashboard/SocialMediaMentalHealthAnalysisDashboard)
+- **GitHub Repository**: https://github.com/mlcsinaga
 
 ---
 
